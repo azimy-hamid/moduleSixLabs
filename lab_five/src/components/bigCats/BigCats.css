@@ -1,0 +1,13 @@
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 4 cards per row */
+  gap: 20px; /* Adjust the gap between cards */
+}
+
+.single-cat {
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
