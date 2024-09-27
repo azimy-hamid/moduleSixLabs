@@ -1,4 +1,4 @@
-# Module 6 Lab 6
+# Module 6 Lab 2
 
 ## Description
 
