@@ -46,7 +46,9 @@ Upon cloning the repo and then navigating to lab_six directory, you'll have to r
 To run the backend, in your terminl, navigate to **lab_six > backend** and then run **npm start.**
 
 - This will run the backend server on port 4000
-  To run the backend, in your terminl, navigate to **lab_six > frontend** and then run **npm start.**
+
+  To run the frontend, in your terminl, navigate to **lab_six > frontend** and then run **npm start.**
+
 - This will run the frontend react website server on port 3000
 
 ## Features
