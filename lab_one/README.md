@@ -34,6 +34,6 @@ As required by the lab instructions, I have created the frontend with react. I h
 ## Usage
 
 Upon cloning the repo and then navigating to lab_one directory, you'll have to run the frontend to view the website.
-To run the frontend, in your terminl, navigate to **lab_six > frontend** and then run **npm start.**
+To run the frontend, in your terminl, navigate to **lab_one** and then run **npm start.**
 
 - This will run the frontend react website server on port 3000
